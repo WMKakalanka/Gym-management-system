@@ -1,0 +1,66 @@
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\bin\Debug\AJFitnessCenter.exe.config
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\bin\Debug\AJFitnessCenter.exe
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\bin\Debug\AJFitnessCenter.pdb
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\bin\Debug\Guna.UI2.dll
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.AssemblyReference.cache
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Form1.resources
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Properties.Resources.resources
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.GenerateResource.cache
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.CoreCompileInputs.cache
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.CopyComplete
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.exe
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.pdb
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Administrator.resources
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.NewMember.resources
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.NewTrainer.resources
+C:\Users\KAVEEN\Desktop\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.Equipment.resources
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\bin\Debug\AJFitnessCenter.exe.config
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\bin\Debug\AJFitnessCenter.exe
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\bin\Debug\AJFitnessCenter.pdb
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\bin\Debug\Guna.UI2.dll
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.AssemblyReference.cache
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Administrator.resources
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.Equipment.resources
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.NewMember.resources
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.NewTrainer.resources
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Form1.resources
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Properties.Resources.resources
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.GenerateResource.cache
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.CoreCompileInputs.cache
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.CopyComplete
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.exe
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.pdb
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.ViewEquipments.resources
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.ViewNewMember.resources
+C:\Users\KAVEEN\Desktop\NIBM Notes\Visual Studio\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.ViewNewTrainer.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.AssemblyReference.cache
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Administrator.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.Equipment.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.NewMember.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.NewTrainer.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.ViewEquipments.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.ViewNewMember.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.ViewNewTrainer.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Form1.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Properties.Resources.resources
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.GenerateResource.cache
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.CoreCompileInputs.cache
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.exe
+C:\Users\KAVEEN\Desktop\Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.pdb
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.AssemblyReference.cache
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Administrator.resources
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.Equipment.resources
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.NewMember.resources
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.NewTrainer.resources
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.ViewEquipments.resources
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.ViewNewMember.resources
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Admin.ViewNewTrainer.resources
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Form1.resources
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.Properties.Resources.resources
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.GenerateResource.cache
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.csproj.CoreCompileInputs.cache
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.exe
+D:\My\NIBM SE Diploma\DIP Complete Projects\Gui CW Project\AJFitnessCenter\AJFitnessCenter\obj\Debug\AJFitnessCenter.pdb
