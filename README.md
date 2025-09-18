@@ -16,6 +16,19 @@ Built in **C# (WinForms)** with **Guna.UI2.WinForms** for a modern user interfac
 
 ---
 
+## 🛠️ Tech Stack
+
+| Layer        | Technology Used |
+|--------------|-----------------|
+| **Language** | C# |
+| **Framework** | .NET Framework (WinForms) |
+| **Front-End (UI)** | WinForms + Guna.UI2.WinForms (modern UI controls) |
+| **Back-End (Logic)** | C# business logic within WinForms |
+| **Database** | (Currently none) – can be extended with SQL Server, MySQL, or SQLite |
+| **Architecture** | Desktop-based, monolithic application |
+
+---
+
 ## 📂 Project Structure
 
 Gym-management-system/
@@ -27,16 +40,6 @@ Gym-management-system/
 
 yaml
 Copy code
-
----
-
-## 🛠️ Tech Stack
-
-| Component         | Technology |
-|------------------|-------------|
-| Language          | C# |
-| Framework         | .NET (WinForms) |
-| UI Library        | Guna.UI2.WinForms |
 
 ---
 
@@ -84,11 +87,8 @@ Export/import data (CSV, PDF)
 
 More responsive & customizable UI
 
-📜 License
-[Add your license here – MIT, GPL, etc.]
 
 👨‍💻 Author
 Kaveen Akalanka (WMKakalanka)
 
 GitHub: WMKakalanka
-
